@@ -2,13 +2,16 @@
 
 <img src="./assets/harry-banner.svg" alt="Animated HARRY banner — solo builder, AI-powered maker, problem solver" width="100%" />
 
-### I don't just write code. I turn unusual ideas into useful products.
+### From HTG GAMER YT to HARRY — building things that make a difference.
 
-**Independent Developer** · **Creative Problem Solver** · **AI-Augmented Builder** · **Sri Lanka 🇱🇰**
+**HTG GAMER YT (HARRY)** · **Solo Project Builder** · **AI-Augmented Developer** · **Sri Lanka 🇱🇰**
 
 [![Portfolio](https://img.shields.io/badge/Explore_My_Work-htgbiz.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://htgbiz.com/works)
 [![Website](https://img.shields.io/badge/HTG_BIZ-Visit_Website-14152D?style=for-the-badge&logo=vercel&logoColor=white)](https://htgbiz.com)
-[![Email](https://img.shields.io/badge/Let's_Build-Say_Hello-0E9F8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@htgbiz.com)
+[![Email](https://img.shields.io/badge/Contact-Email_Me-0E9F8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@htgtopup.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=htgbot&label=Profile%20Views&color=8B5CF6&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/htgbot?label=Followers&style=flat-square&color=8B5CF6)](https://github.com/htgbot?tab=followers)
 
 </div>
 
@@ -18,7 +21,7 @@
 
 > **Solo by default. AI-powered by design. Built to solve real problems.**
 
-Hey, I'm **Harry** 👋 — a creative project builder who enjoys finding **original solutions to everyday business problems** and turning them into products people can actually use.
+Hey, I'm **Harry**, also known as **HTG GAMER YT** 👋 — a creative project builder who enjoys finding **original solutions to everyday business problems** and turning them into products people can actually use.
 
 I handle most projects **independently, from idea to deployment**. For certain projects, I collaborate with another developer or specialist, usually keeping the team to **two people or fewer**. My typical workflow is a **one-person development team + AI tools + carefully crafted prompts**.
 
@@ -55,7 +58,7 @@ AI helps me explore, prototype, troubleshoot, and move faster. **The vision, dec
 | 🌏 **[Duoluxus](https://htgbiz.com/works)** | E-commerce implementation combining store operations with warehouse, payment, and Telegram automation. |
 | 🖼️ **[SNT Frames](https://htgbiz.com/works)** | Printing business website and operations system with POS, WhatsApp messaging, and accounting-related automation. |
 
-**→ [More projects, case studies, and live work at HTGBIZ.COM](https://htgbiz.com/works)**
+**→ [Explore more projects and case studies at HTGBIZ.COM](https://htgbiz.com/works)**
 
 ## 🧩 Problems I like solving
 
@@ -113,6 +116,17 @@ Prompt-driven prototyping, rapid iteration, practical AI workflows, and custom i
 
 </div>
 
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=htgbot&show_icons=true&theme=tokyonight&hide_border=true" alt="Harry GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htgbot&layout=compact&theme=tokyonight&hide_border=true" alt="Harry most used public-repository languages" height="165" />
+
+<sub>These third-party cards show public GitHub activity, not all client work. They may occasionally be unavailable.</sub>
+
+</div>
+
 ## ✨ My developer philosophy
 
 ```javascript
@@ -136,8 +150,8 @@ const harry = {
 
 **Let's turn it into something real.**
 
-[**View My Portfolio ↗**](https://htgbiz.com/works) &nbsp;·&nbsp; [**HTG BIZ ↗**](https://htgbiz.com) &nbsp;·&nbsp; [**Email Me ↗**](mailto:support@htgbiz.com)
+[**View My Portfolio ↗**](https://htgbiz.com/works) &nbsp;·&nbsp; [**HTG BIZ ↗**](https://htgbiz.com) &nbsp;·&nbsp; [**Email Me ↗**](mailto:info@htgtopup.com)
 
-<sub>Designed to build differently. Created by Harry. 💜</sub>
+<sub>HTG GAMER YT → HARRY · Building different solutions, one project at a time. 💜</sub>
 
 </div>
